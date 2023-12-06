@@ -1,0 +1,8 @@
+../Core/Src/lcd.c:27:13:lcd_cmd	1
+../Core/Src/lcd.c:36:13:lcd_data	1
+../Core/Src/lcd.c:47:13:lcd_send	2
+../Core/Src/lcd.c:77:6:lcd_init	2
+../Core/Src/lcd.c:98:13:lcd_data16	1
+../Core/Src/lcd.c:109:13:lcd_set_window	1
+../Core/Src/lcd.c:121:6:lcd_put_pixel	1
+../Core/Src/lcd.c:129:6:lcd_copy	1

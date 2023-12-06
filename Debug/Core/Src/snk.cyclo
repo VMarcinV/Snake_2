@@ -1,0 +1,10 @@
+../Core/Src/snk.c:12:6:square	3
+../Core/Src/snk.c:24:6:apple	4
+../Core/Src/snk.c:45:6:snk_start_pos	2
+../Core/Src/snk.c:53:6:snk_draw	2
+../Core/Src/snk.c:63:6:snkStart	5
+../Core/Src/snk.c:91:6:snk_move	9
+../Core/Src/snk.c:145:6:snk_eat	3
+../Core/Src/snk.c:153:6:game_over_mess	1
+../Core/Src/snk.c:158:6:game_over	8
+../Core/Src/snk.c:186:5:getScore	1
